@@ -1,7 +1,10 @@
 # 📌 Infobula
 
-As bulas de medicamentos costumam ser extensas, técnicas e de difícil compreensão para o público geral.
-Além disso, o desing das bulas impressas não considera pessoas com baixa visão (como miopia), que enfrentam ainda mais barreiras para entendimento dos medicamentos.
+## Descrição do Projeto
+Este projeto tem como objetivo facilitar a leitura de bulas de medicamentos por meio de um site acessível e intuitivo.  
+A plataforma organiza e destaca as informações mais importantes como indicações, posologia, contraindicações e efeitos colaterais de forma clara e rápida.  
+Além disso, o design prioriza a acessibilidade, permitindo ajuste de fonte, contraste adequado e melhor experiência para pessoas com miopia ou outras dificuldades visuais.
+
 
 ---
 
