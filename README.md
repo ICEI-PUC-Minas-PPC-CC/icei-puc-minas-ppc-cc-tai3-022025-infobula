@@ -21,21 +21,21 @@ Além disso, o design prioriza a acessibilidade, permitindo ajuste de fonte, con
 - **Problema identificado:**  As bulas de medicamentos costumam ser extensas, técnicas e de difícil compreensão para o público geral.
 Além disso, o desing das bulas impressas não considera pessoas com baixa visão (como miopia), que enfrentam ainda mais barreiras para entendimento dos medicamentos.
 - **Público-alvo:**
- Pessoas que utilizam medicamentos e buscam informações claras e acessíveis.
- Idosos e cuidadores que têm dificuldade com textos longos e técnicos.  
- Pessoas com baixa visão (ex.: miopia), que precisam de textos maiores e mais legíveis.  
- Profissionais da saúde que necessitam de acesso rápido às informações.  
+-  Pessoas que utilizam medicamentos e buscam informações claras e acessíveis.
+- Idosos e cuidadores que têm dificuldade com textos longos e técnicos.  
+-  Pessoas com baixa visão (ex.: miopia), que precisam de textos maiores e mais legíveis.  
+-  Profissionais da saúde que necessitam de acesso rápido às informações.  
 - **Impacto esperado:**
- Facilitar a leitura e compreensão das bulas.  
- Reduzir erros de automedicação por má interpretação.  
- Tornar o acesso às informações médicas mais rápido, claro e acessível para todos.  
- Promover inclusão ao pensar também em pessoas com deficiência visual parcial. 
+-  Facilitar a leitura e compreensão das bulas.  
+-  Reduzir erros de automedicação por má interpretação.  
+-  Tornar o acesso às informações médicas mais rápido, claro e acessível para todos.  
+-  Promover inclusão ao pensar também em pessoas com deficiência visual parcial. 
 - **Solução proposta:**  Criação de um site que organiza e destaca as informações mais relevantes de cada medicamento, como:  
- Indicações principais  
- Posologia 
- Contraindicações  
- Efeitos colaterais comuns  
- Advertências importantes  
+-  Indicações principais  
+-  Posologia 
+-  Contraindicações  
+-  Efeitos colaterais comuns  
+-  Advertências importantes  
 
 ### 2️⃣ Lean Canvas / Missão, Visão e Valores
 - Lean Canvas (imagem ou link)  
