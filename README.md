@@ -32,7 +32,7 @@ Além disso, o desing das bulas impressas não considera pessoas com baixa visã
 - Promover inclusão ao pensar também em pessoas com deficiência visual parcial. 
 - **Solução proposta:**  Criação de um site que organiza e destaca as informações mais relevantes de cada medicamento, como:  
 - Indicações principais  
-- Posologia (como tomar)  
+- Posologia 
 - Contraindicações  
 - Efeitos colaterais comuns  
 - Advertências importantes  
