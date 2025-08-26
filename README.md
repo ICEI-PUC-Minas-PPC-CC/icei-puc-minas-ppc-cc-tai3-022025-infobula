@@ -11,7 +11,7 @@ Além disso, o design prioriza a acessibilidade, permitindo ajuste de fonte, con
 ## 👥 Integrantes
 
 - Bruna Fernanda da Silva Bastos – RA: 1446979  
-- Laura Zanão – RA: XXXXXXXX  
+- Laura Zanão – RA: 1446738  
  
 ---
 
