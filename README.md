@@ -38,10 +38,11 @@ Além disso, o desing das bulas impressas não considera pessoas com baixa visã
 -  Advertências importantes  
 
 ### 2️⃣ Lean Canvas / Missão, Visão e Valores
-- Lean Canvas (imagem ou link)  
-- Missão:  
-- Visão:  
-- Valores:  
+- Lean Canvas <img width="1139" height="668" alt="image" src="https://github.com/user-attachments/assets/97df508b-30c7-481f-8436-157c72299790" />
+
+- Missão: Prover usuários com bulas virtuais de medicações, possibilitando leitura fácil e acesso rápido às informações desejadas.
+- Visão: Se tornar uma ferramenta de busca confiável, reconhecida por usuários que necessitem dela.
+- Valores: Confiabilidade, transparência, inovação e foco no usuário.
 
 ### 3️⃣ Custos e Tributos (Plano de Negócios - PNBOX)
 - Custos fixos:  
