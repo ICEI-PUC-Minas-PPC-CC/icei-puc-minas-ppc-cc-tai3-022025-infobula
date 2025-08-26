@@ -1,4 +1,4 @@
-# 📌 Nome do Projeto
+# 📌 Infobula
 
 Breve descrição do problema identificado e da solução proposta.  
 Pode incluir imagens, diagramas ou links para protótipos, vídeos, wireframes etc.
@@ -7,10 +7,9 @@ Pode incluir imagens, diagramas ou links para protótipos, vídeos, wireframes e
 
 ## 👥 Integrantes
 
-- Nome 1 – RA: XXXXXXXX  
-- Nome 2 – RA: XXXXXXXX  
-- Nome 3 – RA: XXXXXXXX  
-
+- Bruna Fernanda da Silva Bastos – RA: 1446979  
+- Laura Zanão – RA: XXXXXXXX  
+ 
 ---
 
 ## 🧭 Etapas do Projeto
