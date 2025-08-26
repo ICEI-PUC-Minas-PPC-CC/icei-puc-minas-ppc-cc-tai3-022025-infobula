@@ -23,7 +23,7 @@ Além disso, o desing das bulas impressas não considera pessoas com baixa visã
 - **Público-alvo:**
 -  Pessoas que utilizam medicamentos e buscam informações claras e acessíveis.
 - Idosos e cuidadores que têm dificuldade com textos longos e técnicos.  
--  Pessoas com baixa visão (ex.: miopia), que precisam de textos maiores e mais legíveis.  
+-  Pessoas com baixa visão (ex.: hipermetropia ), que precisam de textos maiores e mais legíveis.  
 -  Profissionais da saúde que necessitam de acesso rápido às informações.  
 - **Impacto esperado:**
 -  Facilitar a leitura e compreensão das bulas.  
