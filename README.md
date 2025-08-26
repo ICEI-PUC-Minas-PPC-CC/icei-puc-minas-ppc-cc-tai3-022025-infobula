@@ -1,7 +1,7 @@
 # 📌 Infobula
 
-Breve descrição do problema identificado e da solução proposta.  
-Pode incluir imagens, diagramas ou links para protótipos, vídeos, wireframes etc.
+As bulas de medicamentos costumam ser extensas, técnicas e de difícil compreensão para o público geral.
+Além disso, o desing das bulas impressas não considera pessoas com baixa visão (como miopia), que enfrentam ainda mais barreiras para entendimento dos medicamentos.
 
 ---
 
@@ -15,8 +15,9 @@ Pode incluir imagens, diagramas ou links para protótipos, vídeos, wireframes e
 ## 🧭 Etapas do Projeto
 
 ### 1️⃣ Definição do Problema e da Solução
-- **Problema identificado:**  
-- **Público-alvo:**  
+- **Problema identificado:**  As bulas de medicamentos costumam ser extensas, técnicas e de difícil compreensão para o público geral.
+Além disso, o desing das bulas impressas não considera pessoas com baixa visão (como miopia), que enfrentam ainda mais barreiras para entendimento dos medicamentos.
+- **Público-alvo:**  Pessoas que utilizam medicamentos e buscam informações claras e acessíveis.
 - **Impacto esperado:**  
 - **Solução proposta:**  
 
