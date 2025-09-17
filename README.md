@@ -45,37 +45,124 @@ Além disso, o desing das bulas impressas não considera pessoas com baixa visã
 - Valores: Confiabilidade, transparência, inovação e foco no usuário.
 
 ### 3️⃣ Custos e Tributos (Plano de Negócios - PNBOX)
-- Custos fixos:  
-- Custos variáveis:  
-- Tributos aplicáveis:  
+- Custos fixos:
+Salários (farmacêutico, programador, redator, marketing) → R$ 15.000
+
+Hosting/servidor + licenças → R$ 1.000
+
+Contabilidade, internet, escritório → R$ 2.000
+📌 Total fixo: R$ 18.000/mês
+- Custos variáveis:
+Anúncios e marketing digital → R$ 20 por cliente adquirido (CAC)
+
+Suporte ao cliente (eventual) → R$ 5 por assinatura
+
+Taxas de meios de pagamento (cartão, boleto) → ~3% da receita
+- Tributos aplicáveis:
+ISS/ICMS (dependendo da atividade principal) → ~6% da receita bruta
+
+INSS patronal (sobre salários) → ~20%
 
 ### 4️⃣ Investimentos e Precificação
-- Investimento inicial:  
-- Estratégia de precificação:  
-- Justificativa:  
+- Investimento inicial:
+Desenvolvimento da plataforma + infraestrutura → R$ 40.000
+
+Pré-operacional (registro, jurídico, marketing de lançamento) → R$ 15.000
+📌 Total inicial: ~R$ 55.000
+- Estratégia de precificação:
+Preemium: acesso gratuito básico (consulta de bulas).
+
+Premium Individual: R$ 19,90/mês (explicações simplificadas, áudio, favoritos).
+
+Empresarial (clínicas/farmácias): planos de R$ 300 a R$ 800/mês.
+- Justificativa:
+Valor percebido → facilita acesso às bulas.
+
+Capacidade de pagamento → preço acessível ao usuário final.
+
+Concorrência → diferencial frente a sites genéricos e pouco amigáveis.
 
 ### 5️⃣ SWOT (Análise de Ambientes)
-- Forças:  
-- Fraquezas:  
-- Oportunidades:  
-- Ameaças:  
+- Forças:
+Conteúdo técnico validado por farmacêuticos.
+
+Facilidade de uso (explicações simplificadas + áudio).
+
+Modelo escalável (assinaturas).
+- Fraquezas:
+Alto custo de manutenção da equipe especializada.
+
+Dependência de marketing digital para aquisição de clientes.
+- Oportunidades:
+Crescente digitalização da saúde.
+
+Parcerias com clínicas, farmácias e universidades.
+
+Possibilidade de integração com apps de saúde e telemedicina.
+- Ameaças:
+Sites concorrentes gratuitos (como bulário da Anvisa).
+
+Questões legais e regulatórias na área da saúde.
+
+Risco de pirataria ou cópia do modelo.
 
 ### 6️⃣ Planejamento Estratégico (BSC)
-- Objetivos estratégicos:  
-- Indicadores e metas:  
-- Ações planejadas:  
+- Objetivos estratégicos:
+Atingir 5.000 assinantes premium em 2 anos.
+
+- Indicadores e metas:
+Taxa de conversão freemium → premium: 5%.
+
+ARPU: R$ 18/mês.
+
+LTV médio: R$ 216.
+- Ações planejadas:
+Investir em marketing digital segmentado.
+
+Criar conteúdos educativos em redes sociais.
+
+Parcerias com universidades e hospitais. 
 
 ### 7️⃣ Fluxo de Caixa
-- Planilha ou print do fluxo projetado:  
-- Principais considerações:  
+- Planilha ou print do fluxo projetado:
+Receita mensal média: R$ 20.000 (com 1.000 assinantes premium).
+
+Custos fixos: R$ 18.000.
+
+Custos variáveis: R$ 2.000.
+
+Lucro operacional: próximo de zero nos primeiros meses (break-even previsto após 12-15 meses).
+- Principais considerações:
+Necessário aporte inicial para sustentar capital de giro.
+
+Crescimento de assinantes é crucial para a sustentabilidade.
 
 ### 8️⃣ Valuation
-- Método utilizado:  
-- Valor estimado:  
+- Método utilizado:
+Receita projetada ano 3: R$ 1,2 milhão.
+
+Margem líquida estimada: 20%.
+
+Taxa de desconto: 12%.
+- Valor estimado:  R$ 3 a 4 milhões.
 
 ### 9️⃣ Segurança Cibernética
-- Riscos identificados:  
-- Medidas de segurança:  
+- Riscos identificados:
+Vazamento de dados de usuários.
+
+Ataques de hackers (DDoS, ransomware).
+
+Cópia de banco de dados e propriedade intelectual.
+- Medidas de segurança:
+Hospedagem em servidores confiáveis com SSL e backups automáticos.
+
+Criptografia de dados sensíveis.
+
+Autenticação em dois fatores para equipe administrativa.
+
+Monitoramento de acessos e logs.
+
+Política de LGPD para transparência com usuários.
 
 ---
 
