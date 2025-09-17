@@ -29,7 +29,7 @@ Treinamento de equipe de conteúdo (farmacêuticos/redatores científicos) → R
 
 # 📌 Estimativa total pré-operacional: R$ 12.000 a R$ 15.000
 
-##3. Capital de Giro (Mensal)
+## 3. Capital de Giro (Mensal)
 
 Equipe mínima:
 
