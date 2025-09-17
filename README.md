@@ -4,6 +4,7 @@
 Este projeto tem como objetivo facilitar a leitura de bulas de medicamentos por meio de um site acessível e intuitivo.  
 A plataforma organiza e destaca as informações mais importantes como indicações, posologia, contraindicações e efeitos colaterais de forma clara e rápida.  
 Além disso, o design prioriza a acessibilidade, permitindo ajuste de fonte, contraste adequado e melhor experiência para pessoas com miopia ou outras dificuldades visuais.
+
 https://github.com/ICEI-PUC-Minas-PPC-CC/icei-puc-minas-ppc-cc-tai3-022025-infobula/blob/main/docs/plano_de_negocio.md
 
 ---
