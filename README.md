@@ -7,8 +7,6 @@ Além disso, o design prioriza a acessibilidade, permitindo ajuste de fonte, con
 
 
 ---
-https://github.com/ICEI-PUC-Minas-PPC-CC/icei-puc-minas-ppc-cc-tai3-022025-infobula/blob/main/docs/plano_de_negocio.md
----
 
 ## 👥 Integrantes
 
@@ -37,8 +35,11 @@ Além disso, o desing das bulas impressas não considera pessoas com baixa visã
 -  Posologia 
 -  Contraindicações  
 -  Efeitos colaterais comuns  
--  Advertências importantes  
+-  Advertências importantes
 
+---
+https://github.com/ICEI-PUC-Minas-PPC-CC/icei-puc-minas-ppc-cc-tai3-022025-infobula/blob/main/docs/plano_de_negocio.md
+---
 ### 2️⃣ Lean Canvas / Missão, Visão e Valores
 - Lean Canvas <img width="1139" height="668" alt="image" src="https://github.com/user-attachments/assets/97df508b-30c7-481f-8436-157c72299790" />
 
