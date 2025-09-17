@@ -7,6 +7,8 @@ Além disso, o design prioriza a acessibilidade, permitindo ajuste de fonte, con
 
 
 ---
+https://github.com/ICEI-PUC-Minas-PPC-CC/icei-puc-minas-ppc-cc-tai3-022025-infobula/blob/main/docs/plano_de_negocio.md
+---
 
 ## 👥 Integrantes
 
