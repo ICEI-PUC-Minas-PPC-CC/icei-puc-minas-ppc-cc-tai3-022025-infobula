@@ -51,7 +51,7 @@ Salários (farmacêutico, programador, redator, marketing) → R$ 15.000
 Hosting/servidor + licenças → R$ 1.000
 
 Contabilidade, internet, escritório → R$ 2.000
-📌 Total fixo: R$ 18.000/mês
+ Total fixo: R$ 18.000/mês
 - Custos variáveis:
 Anúncios e marketing digital → R$ 20 por cliente adquirido (CAC)
 
@@ -68,7 +68,7 @@ INSS patronal (sobre salários) → ~20%
 Desenvolvimento da plataforma + infraestrutura → R$ 40.000
 
 Pré-operacional (registro, jurídico, marketing de lançamento) → R$ 15.000
-📌 Total inicial: ~R$ 55.000
+Total inicial: ~R$ 55.000
 - Estratégia de precificação:
 Preemium: acesso gratuito básico (consulta de bulas).
 
