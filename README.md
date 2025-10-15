@@ -7,7 +7,8 @@ Além disso, o design prioriza a acessibilidade, permitindo ajuste de fonte, con
 
 https://github.com/ICEI-PUC-Minas-PPC-CC/icei-puc-minas-ppc-cc-tai3-022025-infobula/blob/main/docs/plano_de_negocio.md
 
-Planilha de planejameno estratégico
+Planilha de planejameno estratégico:
+
 https://1drv.ms/x/c/0eeb72dfab745c17/EU7RRR75qAdMkFLRqmQpZG4Bmp0K7ZpkjupEFGsxH7g0mw?e=dPrmhj
 
 ---
