@@ -47,12 +47,12 @@ Além disso, o desing das bulas impressas não considera pessoas com baixa visã
 
 ### 3️⃣ Custos e Tributos (Plano de Negócios - PNBOX)
 - Custos fixos:
-Salários (farmacêutico, programador, redator, marketing) → R$ 15.000
+Salários (farmacêutico, programador, redator, marketing) → R$ 150
 
-Hosting/servidor + licenças → R$ 1.000
+Hosting/servidor + licenças → R$ 100
 
-Contabilidade, internet, escritório → R$ 2.000
- Total fixo: R$ 18.000/mês
+Contabilidade, internet, escritório → R$ 200
+ Total fixo: R$ 180/mês
 - Custos variáveis:
 Anúncios e marketing digital → R$ 20 por cliente adquirido (CAC)
 
@@ -75,7 +75,7 @@ Preemium: acesso gratuito básico (consulta de bulas).
 
 Premium Individual: R$ 19,90/mês (explicações simplificadas, áudio, favoritos).
 
-Empresarial (clínicas/farmácias): planos de R$ 300 a R$ 800/mês.
+Empresarial (clínicas/farmácias): planos de R$ 30 a R$ 80/mês.
 - Justificativa:
 Valor percebido → facilita acesso às bulas.
 
@@ -128,9 +128,9 @@ Parcerias com universidades e hospitais.
 - Planilha ou print do fluxo projetado:
 Receita mensal média: R$ 20.000 (com 1.000 assinantes premium).
 
-Custos fixos: R$ 18.000.
+Custos fixos: R$ .
 
-Custos variáveis: R$ 2.000.
+Custos variáveis: R$ .
 
 Lucro operacional: próximo de zero nos primeiros meses (break-even previsto após 12-15 meses).
 - Principais considerações:
@@ -140,12 +140,12 @@ Crescimento de assinantes é crucial para a sustentabilidade.
 
 ### 8️⃣ Valuation
 - Método utilizado:
-Receita projetada ano 3: R$ 1,2 milhão.
+Receita projetada ano 3: R$.
 
 Margem líquida estimada: 20%.
 
 Taxa de desconto: 12%.
-- Valor estimado:  R$ 3 a 4 milhões.
+- Valor estimado:  R$.
 
 ### 9️⃣ Segurança Cibernética
 - Riscos identificados:
