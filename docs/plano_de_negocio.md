@@ -92,6 +92,11 @@ Clínicas e farmácias → cobrança mensal.
 
 CAC (Custo de Aquisição de Cliente): em média R$ 20 a R$ 40 por usuário (considerando anúncios digitais).
 
-ARPU (Receita Média por Usuário): R$ 18/mês.
 
-LTV (Lifetime Value): se o cliente ficar 12 meses em média → R$ 216 por cliente.
+Análise Financeira e Fluxo de Caixa
+
+O fluxo de caixa mensal da PNBOX apresenta um desempenho financeiro equilibrado e em crescimento ao longo dos quatro primeiros meses de operação. As entradas aumentam, indo de R$ 20.000 em janeiro e alcançando R$ 29.000 em abril, isso sendo resultado do crescimento da base de assinantes.
+
+O saldo acumulado positivo de R$ 20.000 ao final de abril indica uma boa capacidade de geração de caixa e sustentabilidade financeira no curto prazo.
+
+Além disso, os investimentos fixos e pré-operacionais, estimados entre R$ 52.000 e R$ 60.000, foram direcionados para o desenvolvimento do site, implementação do sistema de busca inteligente, aquisição de equipamentos e ações iniciais de marketing. Esses aportes criam uma base sólida para o crescimento da empresa.
