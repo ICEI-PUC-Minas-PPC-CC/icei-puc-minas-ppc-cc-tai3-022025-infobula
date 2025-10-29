@@ -11,7 +11,10 @@ Planilha de planejameno estratégico:
 
 https://1drv.ms/x/c/0eeb72dfab745c17/EU7RRR75qAdMkFLRqmQpZG4Bmp0K7ZpkjupEFGsxH7g0mw?e=dPrmhj
 
----
+
+
+---[fluxo_de_caixa (1).xlsx](https://github.com/user-attachments/files/23214719/fluxo_de_caixa.1.xlsx)
+
 
 ## 👥 Integrantes
 
